@@ -3,6 +3,7 @@
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
  - Update Module::Install to 1.21 version.
+ - Update author github username.
 
 0.08 2017-11-08T13:02:58+01:00
  - Add EXAMPLE5 section to doc.

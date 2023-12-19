@@ -181,8 +181,8 @@ For more information about Moscow Map, click L<here|https://ru.wikipedia.org/wik
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Moscow/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Moscow/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Moscow/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Moscow/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
 </a>
 
 =end html
@@ -284,7 +284,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Moscow>
+L<https://github.com/michal-josef-spacek/Map-Tube-Moscow>
 
 =head1 AUTHOR
 
