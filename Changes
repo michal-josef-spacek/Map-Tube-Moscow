@@ -9,6 +9,7 @@
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update copyright years.
+ - Update to Map::Tube 3.62.
 
 0.08 2017-11-08T13:02:58+01:00
  - Add EXAMPLE5 section to doc.
