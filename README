@@ -67,11 +67,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Moscow;
 
@@ -88,11 +86,9 @@ EXAMPLE1
      # Route: Планерная (7 Таганско-Краснопресненская линия), Сходненская (7 Таганско-Краснопресненская линия), Тушинская (7 Таганско-Краснопресненская линия), Спартак (7 Таганско-Краснопресненская линия), Щукинская (7 Таганско-Краснопресненская линия), Октябрьское поле (7 Таганско-Краснопресненская линия), Полежаевская (7 Таганско-Краснопресненская линия), Беговая (7 Таганско-Краснопресненская линия), Улица 1905 года (7 Таганско-Краснопресненская линия), Баррикадная (7 Таганско-Краснопресненская линия), Пушкинская (7 Таганско-Краснопресненская линия), Кузнецкий мост (7 Таганско-Краснопресненская линия), Китай-город (6 Калужско-Рижская линия,7 Таганско-Краснопресненская линия), Тургеневская (6 Калужско-Рижская линия), Сухаревская (6 Калужско-Рижская линия), Проспект Мира (5 Кольцевая линия,6 Калужско-Рижская линия), Новослободская (5 Кольцевая линия), Белорусская (2 Замоскворецкая линия,5 Кольцевая линия)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::Moscow;
 
      # Object.
@@ -108,11 +104,9 @@ EXAMPLE2
      # XML file: .*/moscow-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::Moscow;
@@ -136,11 +130,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 549576 Mar  9 21:39 Moscow.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Moscow;
 
@@ -168,11 +160,9 @@ EXAMPLE4
      # Филёвская линия
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Moscow;
 
