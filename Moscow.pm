@@ -33,6 +33,7 @@ Map::Tube::Moscow - Interface to the Moscow Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Moscow;
+
  my $obj = Map::Tube::Moscow->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
