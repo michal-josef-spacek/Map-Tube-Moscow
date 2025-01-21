@@ -334,7 +334,7 @@ L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
-© 2014-2023 Michal Josef Špaček
+© 2014-2025 Michal Josef Špaček
 
 Artistic License
 
